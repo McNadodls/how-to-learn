@@ -31,12 +31,7 @@
 }
 
 /* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
+
 
 .logo {
   width: 228px;
@@ -277,6 +272,8 @@
 
 .table__cell_theme_dark { /*карточки*/
   width: 200px;
+  color: white;
+  margin-right: 0;
   margin-top: 80px;
 }
 .cell__heading_theme_dark { /*заголовок карточки*/
@@ -308,7 +305,7 @@
   min-height: 350px;
   background-color: #1f1f1f;
   color: #f2f2f2;
-  padding: 60px 0 40px ;
+  padding: 60px 0 40px;
   display: flex;
   justify-content: center;
   box-sizing: border-box;
