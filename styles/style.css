@@ -29,6 +29,10 @@
 .header__square-pic {
   height: 568px;
   width: 568px;
+  background-color: #2f80ed;
+  position: absolute;
+  top: 64px;
+  right: 0;
 }
 
 /* и элемента с модификатором вида ключ-значение */
@@ -77,15 +81,6 @@
   right: 0px;
   bottom: 0px;
   z-index: 1;
-}
-
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-  background-color: #2f80ed;
-  position: absolute;
-  top: 64px;
-  right: 0;
 }
 
 .content {
