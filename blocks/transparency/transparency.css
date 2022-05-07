@@ -5,5 +5,5 @@
     transition: opacity 0.5s;
   }
 .transparency:hover{
-  opacity: 50%
+  opacity: 50%;
 }
