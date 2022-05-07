@@ -1,0 +1,6 @@
+.feynman {  /*Метод Феймана*/
+    position: relative;
+    min-height: 890px;
+    background: url(../../images/feynman.png) #f2f2f2 no-repeat bottom left;
+    background-size: 867px 637px;
+  }
