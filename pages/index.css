@@ -1,5 +1,6 @@
 @import url(../blocks/rotation/rotation.css); /*кейфремы*/
 @import url(../blocks/transparency/transparency.css);/*прозрачность ссылок*/
+@import url(../vedor/normalize.css);
 @import url(../blocks/body/body.css);
     @import url(../blocks/page/page.css);
 /*Хедер*/
