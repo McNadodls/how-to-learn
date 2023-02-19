@@ -5,7 +5,7 @@
 @import url(../blocks/page/page.css);
 /*Хедер*/
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/title/headertitle.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
